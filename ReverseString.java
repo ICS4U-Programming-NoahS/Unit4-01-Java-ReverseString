@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
 * The Reverse String program will read a set of strings from 'input.txt'.
-* It will populate the set of strings into an array.
 * It will then reverse each string using a recursive function.
 * Finally, it will write the reversed string to 'output.txt'.
 *
